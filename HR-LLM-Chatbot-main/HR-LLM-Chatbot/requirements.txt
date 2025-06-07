@@ -1,0 +1,11 @@
+faiss-cpu
+fastapi
+fastapi-cli
+fastjsonschema
+nest_asyncio
+PyMuPDF
+torch
+torchvision
+torchaudio
+sentence_transformers
+accelerate
