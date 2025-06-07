@@ -64,7 +64,9 @@ Then open http://localhost:8000 in your browser.
 ### 💬 Ask Your Bot
 Try questions like:
 
-"How many sick leaves are allowed?"/n"How is performance appraised?"/n"What's the travel reimbursement process?"
+"How many sick leaves are allowed?"
+"How is performance appraised?"
+"What's the travel reimbursement process?"
 
 
 ### API Example
