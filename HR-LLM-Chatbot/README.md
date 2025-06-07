@@ -65,7 +65,9 @@ Then open http://localhost:8000 in your browser.
 Try questions like:
 
 "How many sick leaves are allowed?"
+
 "How is performance appraised?"
+
 "What's the travel reimbursement process?"
 
 
